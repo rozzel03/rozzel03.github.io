@@ -1,0 +1,123 @@
+/* Common Styles */
+body {
+  font-family:Helvetica	;
+}
+
+
+/* SideBar Styling */
+.sidebar {
+  position: fixed;
+  top: 0px;
+  bottom: 0px;
+  left: 0px;
+  display: block;
+  padding: 0px;
+  overflow-x: hidden;
+  overflow-y: auto;
+  background-color: black;
+  border-right: 1px solid white;
+  text-align: center;
+}
+
+/* Button Classes */
+.btn {
+  display: inline-block;
+  border-radius: 4px;
+  line-height: 50px;
+  color: #fff;
+  font-weight: 600;
+  padding: 0 20px;
+}
+
+.btn-cta {
+  background-color: black;
+  transition: all 0.1s linear;
+}
+.btn-cta:hover {
+  background-color: gray;
+  color: white;
+}
+
+/* banner Component Styles */
+.banner {
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    /*height: 320px;*/
+}
+
+.banner h1 {
+    font-color: #black;
+    font-weight: normal;
+    font-size: 4em;
+}
+
+
+.banner p {
+    font-color: #black;
+    line-height: 2;
+    padding: 6px 10px;
+}
+
+
+/* Navigation Styles */
+.navbar {
+	 background: black;
+  border-color: black;
+    margin-bottom: 0;
+}
+
+.navbar a {
+	color: white;
+}
+
+.navbar-inverse {
+  background: black;
+  border-color: black;
+}
+
+
+.navbar-brand {
+  padding: 25px 15px;
+  color: white !important;
+}
+
+.navbar-right {
+  animation: navbar 1s;
+  margin-top: 10px;
+}
+
+.navbar-left {
+  margin: 0 -10px;
+  float: none !important;
+}
+.navbar-left li a {
+  background: black !important;
+  color: white;
+}
+
+.navbar-left li a:hover {
+  color: white !important;
+}
+
+.col-xs-2 .nav-user {
+  background: #068fd5;
+  color: #fff;
+  padding: 10px 0;
+}
+.col-xs-2 .nav-user img {
+  border-radius: 50%;
+  width: 30%;
+}
+.col-xs-2 .nav-user a {
+  color: #fff;
+}
+
+.col-xs-2 .navbar-brand {
+  float: none;
+}
+
+.dropdown-menu li a {
+    color: black !important;
+}
