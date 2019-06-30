@@ -93,9 +93,8 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: -webkit-gradient(linear, left top, right top, from(rgba(255, 255, 255, 0.1)), to(rgba(255, 255, 255, 0.1))), url("/img/me.png");
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url("me.png");
-  background-position: left;
+  background: rgba(255, 255, 255, 0.2);
+  background: rgba(255, 255, 255, 0.2);
   background-repeat: no-repeat;
   background-size: cover;
 }
