@@ -1,0 +1,11 @@
+/*
+ * Lab 1: WEBD 335
+ * By: Martina Rozzell
+ * Date: 10/1/2017
+ * 
+ * I believe this should se teh transtion for each object hovers properites.
+ */
+
+@mixin trans { 
+  transition: background-color 2s ease;
+}

@@ -1,0 +1,68 @@
+/*
+ * Lab 2: WEBD 335
+ * By: Martina Rozzell
+ * Date: 10/21/2017
+ * 
+
+
+body {
+	font-family: Helvetica;
+}
+
+/* Button*/
+.btn {
+	display: inline-block;
+	border-radius: 4px;
+	background-color: black;
+	padding: 20px;
+	color: white;
+}
+
+.btn:hover {
+	background-color: gray;
+	color: black;@include trans;
+}
+
+/* SideBar*/
+.sidebar {
+	position: fixed;
+	top: 0px;
+	bottom: 0px;
+	left: 0px;
+	display: block;
+	overflow-x: hidden;
+	overflow-y: auto;
+	background-color: black;
+	text-align: left;
+}
+
+.sidebar a {
+	color: white;
+}
+
+
+
+/*Navbar*/
+.navbar {
+	background-color: black;
+}
+
+.navbar a {
+	color: white;
+}
+
+.navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.navbar li {
+	float: left;
+	display: block;
+	text-align: center;
+}
+
+
+
