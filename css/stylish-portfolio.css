@@ -112,7 +112,7 @@ h6 {
   transition: all 0.4s ease 0s;
   -webkit-transform: translateX(250px);
   transform: translateX(250px);
-  background: #355586;
+  background: #1D809F;
   border-left: 1px solid rgba(255, 255, 255, 0.1);
 }
 
@@ -192,7 +192,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #355586;
+  color: #1D809F;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -282,7 +282,7 @@ footer.footer .social-link {
   width: 4rem;
   line-height: 4.3rem;
   font-size: 1.5rem;
-  background-color: #355586;
+  background-color: #1D809F;
   -webkit-transition: background-color 0.15s ease-in-out;
   transition: background-color 0.15s ease-in-out;
   -webkit-box-shadow: 0 3px 3px 0 rgba(0, 0, 0, 0.1);
@@ -290,38 +290,38 @@ footer.footer .social-link {
 }
 
 footer.footer .social-link:hover {
-  background-color: #394E7B;
+  background-color: #155d74;
   text-decoration: none;
 }
 
 a {
-  color: #355586;
+  color: #1D809F;
 }
 
 a:hover, a:focus, a:active {
-  color: #394E7B;
+  color: #155d74;
 }
 
 .btn-primary {
-  background-color: #355586 !important;
-  border-color: #355586 !important;
+  background-color: #1D809F !important;
+  border-color: #1D809F !important;
   color: #fff !important;
 }
 
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background-color: #394E7B!important;
-  border-color: #394E7B!important;
+  background-color: #155d74 !important;
+  border-color: #155d74 !important;
 }
 
 .btn-secondary {
-  background-color: #7E8DA6 !important;
-  border-color: #7E8DA6 !important;
+  background-color: #ecb807 !important;
+  border-color: #ecb807 !important;
   color: #fff !important;
 }
 
 .btn-secondary:hover, .btn-secondary:focus, .btn-secondary:active {
-  background-color: #A1A5AE !important;
-  border-color: #A1A5AE !important;
+  background-color: #ba9106 !important;
+  border-color: #ba9106 !important;
 }
 
 .btn-dark {
@@ -335,13 +335,13 @@ a:hover, a:focus, a:active {
 }
 
 .bg-primary {
-  background-color: #355586 !important;
+  background-color: #1D809F !important;
 }
 
 .text-primary {
-  color: #355586 !important;
+  color: #1D809F !important;
 }
 
 .text-secondary {
-  color: #7E8DA6 !important;
+  color: #ecb807 !important;
 }
