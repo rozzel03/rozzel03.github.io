@@ -93,10 +93,8 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: rgba(255, 255, 255, 0.2);
-  background: rgba(255, 255, 255, 0.2);
+  background: rgba(52, 58, 64, 0.1);
   background-repeat: no-repeat;
-  background-size: cover;
 }
 
 .masthead h1 {
